@@ -1,4 +1,4 @@
-# Street-Survey-App
+# 🛰️ Street-Survey-App
 
 This app is made to make a survey of any street, save points into a gpx file and into a local database.
 
@@ -18,14 +18,14 @@ If you need it you can make an excel with the data.
 --PHOTO--
 
 
-## Acknowledgements
+## 🧐 Acknowledgements
 
  - [Room Database](https://developer.android.com/training/data-storage/room)
  - [Camera X API](https://developer.android.com/training/camerax)
  - [Mp Android Chart](https://github.com/PhilJay/MPAndroidChart)
 
 
-## Features
+## 🚧 Features
 
 - Gpx write
 - Live Camera
